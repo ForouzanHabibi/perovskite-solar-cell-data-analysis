@@ -1,8 +1,9 @@
 # Evidence-Grounded Scientific Data Curation with LLMs
 ## A Perovskite Solar Cell Case Study
 
-An end-to-end scientific data curation and machine-learning pipeline for experimental perovskite solar-cell datasets.
+**Authors:** Forouzan Habibi, PhD · Amir Jaberi, PhD Candidate, Free University of Bozen-Bolzano (unibz)
 
+An end-to-end scientific data curation and machine-learning pipeline for experimental perovskite solar-cell datasets.
 The project combines deterministic quality-control rules, semantic normalization, DOI-linked scholarly evidence, structured LLM-assisted review, chemistry-aware feature engineering, and temporally held-out machine-learning validation.
 
 The central goal is not simply to train a predictive model, but to build a traceable workflow that converts heterogeneous literature-derived records into a scientifically curated and model-ready dataset.

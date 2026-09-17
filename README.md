@@ -692,16 +692,30 @@ No API credentials are stored in this repository.
 
 ---
 
-## Author
+## Authors
 
-**Forouzan Habibi, PhD**
+### Amir Jaberi
+PhD Candidate in Computer Science at the Free University of Bozen-Bolzano (unibz), Italy.
+
+Research interests include:
+
+- artificial intelligence,
+- knowledge representation and reasoning,
+- ontologies and knowledge graphs,
+- large language models,
+- neurosymbolic AI,
+- semantic data engineering,
+- and evidence-grounded scientific knowledge curation.
+- 
+### Forouzan Habibi, PhD
+Researcher with a background in optics and laser physics, computational photonics, metasurfaces, nanophotonics, and scientific data analysis.
 
 Research interests include:
 
 - computational optics and photonics,
-- scientific AI,
+- metasurfaces and nanophotonics,
 - photovoltaic data analysis,
-- metasurfaces,
-- nanophotonics,
+- scientific AI,
 - physics-informed simulation,
 - and evidence-grounded scientific data workflows.
+
